@@ -1,0 +1,43 @@
+
+.nav-item {
+    padding: 5px 10px;
+}
+
+
+#nav-principal ul li a:hover {
+    color: white;
+}
+
+#topo {
+    background-color: #ffc107;
+    color: white;
+    font-size: 1.1em;
+    margin-bottom: 30px;
+}
+
+#conteudo {
+    padding: 60px;
+    border-bottom: solid rgba(128, 128, 128, 0.527) 1px;
+}
+
+#link-footer{
+    padding: 20px 0;
+}
+
+#link-footer a{
+    margin: 0 15px;
+    font-size: 1.1em;
+}
+
+#link-footer a:hover{
+    text-decoration: none;
+}
+
+#redes-footer {
+    padding-left: 60px;
+
+}
+
+#redes-footer a i {
+    color: rgba(0, 0, 0, 0.829);
+}
